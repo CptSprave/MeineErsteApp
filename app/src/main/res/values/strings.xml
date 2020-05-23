@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meine erste App</string>
+    <string name="strUserMsgYouHaveChosenAMonster">Du hast ausgewählt den</string>
+    <string name="strContentDescriptionFirstMonster">Sockenmonster</string>
+    <string name="strContentDescriptionSecondMonster">Glotzkowski</string>
+    <string name="strContentDescriptionThirdMonster">Hairymonster</string>
+    <string name="strContentDescriptionFourthMonster">Thetamonster</string>
+    <string name="ContentDescriptionBigMonster">BigMonster</string>
+</resources>
